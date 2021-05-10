@@ -1,0 +1,54 @@
+Report created: 
+	11-05-2021	02:08:16
+
+Project name: Anim.aep
+
+Source files collected to: 
+	D:\soch task 2\11-05-2021\Audio Waveform
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Audio Waveform
+	Audio Waveform Background
+	Audio Waveform Background Mirrored
+	
+Number of collected files:  1
+
+Size of collected files:  7.5 MB
+
+Collected source files: 
+	D:\soch task 2\Editing task v2_3.wav
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  11
+
+Effect:  Audio Spectrum
+	
+Effect:  CC Radial Fast Blur
+	
+Effect:  Drop Shadow
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Invert
+	
+Effect:  Linear Wipe
+	
+Effect:  Mirror
+	
+Effect:  Transform
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Cream Cake”, Font style: “Regular”
+
