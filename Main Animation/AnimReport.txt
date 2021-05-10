@@ -1,0 +1,58 @@
+Report created: 
+	11-05-2021	03:40:14
+
+Project name: Anim.aep
+
+Source files collected to: 
+	D:\soch task 2\11-05-2021\Main Animation
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Main Animation
+	Cube Inside WarRoom
+	WarRooms
+	List
+	Pvt Lab
+	Govt Lab
+	Covid List
+	Call List
+	Healthcare Workers
+	Self Reporting
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  11
+
+Effect:  Audio Spectrum
+	
+Effect:  CC Radial Fast Blur
+	
+Effect:  Drop Shadow
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Invert
+	
+Effect:  Linear Wipe
+	
+Effect:  Mirror
+	
+Effect:  Transform
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Cream Cake”, Font style: “Regular”
+
